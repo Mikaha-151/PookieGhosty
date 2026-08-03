@@ -2,6 +2,7 @@
 
 A cute interactive ghost animation built with HTML, CSS, and JavaScript.
 Because I believe coding can be cute and fun too! ✨
+
 The ghost follows your cursor with its eyes, creating a fun little interactive experience.
 
 ---
