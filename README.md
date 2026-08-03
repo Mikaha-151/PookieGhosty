@@ -34,7 +34,8 @@ I drew this idea on my notebook and finally made it to life! Im so happy to shar
 Btw her EYES MOVES along with the cursor! 👀
 
 I Coded it between **5 April 2025** and **7 April 2025**...( And i definitely didn't study for my CS exam 😭)
-I posted it on SoloLearn when i made it.
+
+I originally shared it on SoloLearn back in 2025, and now it's finally found a home on my GitHub too! 💜
 
 This little ghost became one of my comfort projects whenever I was feeling low, so I wanted to share it with everyone.
 
@@ -45,6 +46,12 @@ I hope it makes you smile too. 💕
 ## 🌟 Feedback
 
 If you enjoyed this project, I'd love to hear your thoughts!
+
+Thanks for stopping by! 🌸
+
+This is one of many little projects I'll be sharing as I continue learning and creating.
+
+See you in the next one! 💜
 
 ---
 
